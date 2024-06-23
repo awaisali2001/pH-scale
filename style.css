@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+}
+body{background-color:rgb(191 192 193)}
+    
+
+.head-one{
+    background-color: rgb(45 132 198);
+    
+}
+.head-two{
+    background-color: rgb(42 146 208);
+    
+}
+.head-three{
+background-color: rgb(30 158 217);
+}
+.head-four{
+    background-color: rgb(61 170 224);
+}
+.head-five{
+    background-color: rgb(87 183 231);
+}
+.head-six{
+    background-color: rgb(112 192 236);
+}
+.head-seven{
+    background-color: rgb(136 200 236);
+}
+.head-eight{
+    background-color: rgb(19 179 135);
+}
+.head-nine{
+    background-color: rgb(245 178 205);
+}
+.head-ten{
+    background-color: rgb(244 156 193);
+}
+.head-eleven{
+    background-color: rgb(243 140 179);
+}
+.head-twelve{
+    background-color: rgb(241 119 163);
+}
+.head-thirteen{
+    background-color: rgb(240 92 140);
+}
+.head-fourteen{
+    background-color: rgb(240 87 139);
+}
+.head-fivteen{background-color: rgb(238 59 129);
+
+}
+#heading-one{
+    background-color: #ffffff;
+    margin: 40px;
+}
